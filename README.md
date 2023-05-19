@@ -1,5 +1,15 @@
 ### Hi there 👋
+Hello my name is Jordan Drummond-Pugh!
 
+I'm currently working on learning full-stack development in Tech Elevator!
+
+I'm currently a Software Engineer at JP Morgan Chase working as a Site Reliability engineer.
+
+I love to code!
+
+You can reach me at jordandrummond0@gmail.com
+
+A fun fact about me is that I love to travel!
 <!--
 **defidrum/defidrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
